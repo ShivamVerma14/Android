@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="new_tab">New Tab</string>
+    <string name="history">History</string>
+    <string name="downloads">Downloads</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="settings">Settings</string>
+</resources>

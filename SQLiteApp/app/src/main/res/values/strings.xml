@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite App</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="college_roll_number">College Roll Number</string>
+    <string name="add_data">Add Data</string>
+    <string name="view_data">View data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+</resources>

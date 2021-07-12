@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multiple Image Chooser</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>

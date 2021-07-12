@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Life Cycles</string>
+    <string name="activity_life_cycle">Activity Life Cycle</string>
+    <string name="fragment_life_cycle">Fragment Life Cycle</string>
+</resources>

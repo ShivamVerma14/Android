@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageInDatabase</string>
+    <string name="add_image">Add Image</string>
+    <string name="update_image">Update Image</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="enter_the_name_of_image_in_download_folder">Enter the name of Image in Download folder</string>
+    <string name="fetch_image">Fetch Image</string>
+</resources>

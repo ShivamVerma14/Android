@@ -1,0 +1,2 @@
+rootProject.name = "FloatingNumbers"
+include ':app'
